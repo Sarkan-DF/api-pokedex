@@ -17,9 +17,10 @@ Usamos React e typescript no desenvolvimento do projeto.
 ![image](https://github.com/Sarkan-DF/api-pokedex/assets/63614609/73f5b5fa-eb69-4a60-a34b-0b9ed897a135)
 
 # Tecnologias utilizadas
-## Front end
-* HTML / CSS / JS;
-* BootsTrap;
+## Frontend e Backend
+* TypeScript;
+* HTML / CSS;
+* MUI;
 
 # Autor
 
