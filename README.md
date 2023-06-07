@@ -1,41 +1,27 @@
-# pokemon-react
 
-projeto criado para estudar consumo de API do Programa Full Stack Developer da Growdev.
+# Sobre o projeto
+## Pokedex Pokemon
 
-[Acesse o demo.](https://pokemon-react-phi.vercel.app/)
+Este foi um projeto que trabalhamos em aula para consumi uma API esterna integrando com o frontend.
 
-# pokeapi.co
+Usamos React e typescript no desenvolvimento do projeto.
 
-Foi utilizado a api https://pokeapi.co/
+### Link para o Projeto: <https://recados2-igormatos.surge.sh/>
 
-# Getting Started with Create React App
+# Layout mobile
+![image](https://user-images.githubusercontent.com/63614609/231506384-077dcac0-3e30-4ec7-9318-e455cdf02505.png)
+![image](https://user-images.githubusercontent.com/63614609/231506666-df45032e-c9e1-4f4d-8b73-1322919e13d3.png)
+![image](https://user-images.githubusercontent.com/63614609/231508725-f7035cab-04c7-487a-80d6-ff7bd75ac640.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Layout web
+![image](https://user-images.githubusercontent.com/63614609/231509241-e66eb822-a33c-4c09-99c7-ae1fad6c32e2.png)
+![image](https://user-images.githubusercontent.com/63614609/231509574-32ae525b-7b99-49e0-995d-e79b48c7d8be.png)
 
-## Available Scripts
+# Tecnologias utilizadas
+## Front end
+* HTML / CSS / JS;
+* BootsTrap;
 
-In the project directory, you can run:
+# Autor
 
-### `npm run dev`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Igor Matos https://www.linkedin.com/in/igor-matos-22815b98/
