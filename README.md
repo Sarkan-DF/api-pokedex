@@ -2,9 +2,9 @@
 # Sobre o projeto
 ## Pokedex Pokemon
 
-Este foi um projeto que trabalhamos em aula para consumi uma API esterma entegrando com o front-End.
+Este foi um projeto que trabalhamos em aula para consumi uma API esterna integrando com o frontend.
 
-Usamos React e Typescript no desenvolvimento do projeto.
+Usamos React e typescript no desenvolvimento do projeto.
 
 ### Link para o Projeto: <https://recados2-igormatos.surge.sh/>
 
