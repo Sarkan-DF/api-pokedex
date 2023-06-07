@@ -9,6 +9,8 @@ Usamos React e typescript no desenvolvimento do projeto.
 ### Link para o Projeto: <https://api-pokedex-igormatos.surge.sh/>
 
 # Layout mobile
+![image](https://github.com/Sarkan-DF/api-pokedex/assets/63614609/acf5cb17-6a07-47ed-bc69-476f9f67872d)
+
 ![image](https://user-images.githubusercontent.com/63614609/231506384-077dcac0-3e30-4ec7-9318-e455cdf02505.png)
 ![image](https://user-images.githubusercontent.com/63614609/231506666-df45032e-c9e1-4f4d-8b73-1322919e13d3.png)
 ![image](https://user-images.githubusercontent.com/63614609/231508725-f7035cab-04c7-487a-80d6-ff7bd75ac640.png)
