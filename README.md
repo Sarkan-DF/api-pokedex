@@ -1,11 +1,10 @@
 
 # Sobre o projeto
-## Avaliacao Final de Modulo - Programacao Front-End II
+## Pokedex Pokemon
 
-Este é um projeto de um programa de recados que consiste em uma tela de login e senha e é possível fazer cadastro, tudo é salvo no localStroge.
-Ele insere o recado com descrição e pode ser editado e apagado.
+Este foi um projeto que trabalhamos em aula para consumi uma API esterma entegrando com o front-End.
 
-Usei HTML, CSS, JavaScrip e BootsTrap, como a proposta era usar bastante BootsTrap para conhecermos a documentação.
+Usamos React e Typescript no desenvolvimento do projeto.
 
 ### Link para o Projeto: <https://recados2-igormatos.surge.sh/>
 
