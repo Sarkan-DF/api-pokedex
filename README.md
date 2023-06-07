@@ -14,10 +14,7 @@ Usamos React e typescript no desenvolvimento do projeto.
 
 # Layout web
 ![image](https://github.com/Sarkan-DF/api-pokedex/assets/63614609/11abf5d0-5efd-4c87-ab10-8f77b95e9322)
-
-
-![image](https://user-images.githubusercontent.com/63614609/231509241-e66eb822-a33c-4c09-99c7-ae1fad6c32e2.png)
-![image](https://user-images.githubusercontent.com/63614609/231509574-32ae525b-7b99-49e0-995d-e79b48c7d8be.png)
+![image](https://github.com/Sarkan-DF/api-pokedex/assets/63614609/73f5b5fa-eb69-4a60-a34b-0b9ed897a135)
 
 # Tecnologias utilizadas
 ## Front end
