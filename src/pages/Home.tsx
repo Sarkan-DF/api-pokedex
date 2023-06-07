@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Button, FormControl, Grid, IconButton, InputAdornment, OutlinedInput, Typography } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
-import TuneRoundedIcon from '@mui/icons-material/TuneRounded';
+import ManageSearchIcon from '@mui/icons-material/ManageSearch';
 import ContentPage from '../components/ContentPage';
 import ListPokemon from '../components/ListPokemon';
 import { useAppDispatch } from '../store/hooks';
@@ -57,7 +57,7 @@ const Home: React.FC = () => {
       </Grid>
       <Grid item xs={2} md={1} sx={{ display: 'flex', justifyContent: 'flex-end' }}>
         <Button onClick={handleSearch} disabled={!searchPokemon.length} variant="contained" sx={{ height: '100%' }}>
-          <TuneRoundedIcon />
+          <ManageSearchIcon />
         </Button>
       </Grid>
 
