@@ -4,7 +4,7 @@
 
 Este foi um projeto que trabalhamos em aula para consumi uma API esterna integrando com o frontend.
 
-Usamos React e typescript no desenvolvimento do projeto.
+Usamos React e typescript no desenvolvimento do projeto, elem do consumo da API do pokemon https://pokeapi.co/.
 
 ### Link para o Projeto: <https://api-pokedex-igormatos.surge.sh/>
 
