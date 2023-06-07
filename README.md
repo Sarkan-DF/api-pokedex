@@ -6,7 +6,7 @@ Este foi um projeto que trabalhamos em aula para consumi uma API esterna integra
 
 Usamos React e typescript no desenvolvimento do projeto.
 
-### Link para o Projeto: <https://recados2-igormatos.surge.sh/>
+### Link para o Projeto: <https://api-pokedex-igormatos.surge.sh/>
 
 # Layout mobile
 ![image](https://user-images.githubusercontent.com/63614609/231506384-077dcac0-3e30-4ec7-9318-e455cdf02505.png)
