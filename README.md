@@ -10,10 +10,7 @@ Usamos React e typescript no desenvolvimento do projeto.
 
 # Layout mobile
 ![image](https://github.com/Sarkan-DF/api-pokedex/assets/63614609/acf5cb17-6a07-47ed-bc69-476f9f67872d)
-
-![image](https://user-images.githubusercontent.com/63614609/231506384-077dcac0-3e30-4ec7-9318-e455cdf02505.png)
-![image](https://user-images.githubusercontent.com/63614609/231506666-df45032e-c9e1-4f4d-8b73-1322919e13d3.png)
-![image](https://user-images.githubusercontent.com/63614609/231508725-f7035cab-04c7-487a-80d6-ff7bd75ac640.png)
+![image](https://github.com/Sarkan-DF/api-pokedex/assets/63614609/bcdf479d-341d-4cda-84a2-753e8bd58bca)
 
 # Layout web
 ![image](https://user-images.githubusercontent.com/63614609/231509241-e66eb822-a33c-4c09-99c7-ae1fad6c32e2.png)
